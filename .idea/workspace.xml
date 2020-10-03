@@ -7,15 +7,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55222a69-a3ac-4142-aa75-6387e72d4015" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/blogspot/femcomputer/direct/ResgisterActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/botton_style_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/botton_style_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +43,15 @@
         <projects_view />
       </state>
     </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="layoutResourceFile" />
+        <option value="resourceFile" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,7 +80,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -129,14 +146,27 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1601720521987">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="752" y="338" width="824" height="485" key="AndroidCreateResourceFileDialog" timestamp="1601723459807">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="752" y="338" width="824" height="485" key="AndroidCreateResourceFileDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1601723459807" />
+    <state x="740" y="309" width="424" height="485" key="FileChooserDialogImpl" timestamp="1601720924062">
+      <screen x="0" y="32" width="1920" height="1048" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601720521987" />
-    <state x="616" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1601720443472">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="740" y="309" width="424" height="485" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1601720924062" />
+    <state x="449" y="191" width="1022" height="731" key="SettingsEditor" timestamp="1601722339704">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="449" y="191" width="1022" height="731" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1601722339704" />
+    <state x="100" y="132" width="1720" height="848" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1601722444638">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="100" y="132" width="1720" height="848" key="com.android.tools.idea.avdmanager.AvdListDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1601722444638" />
+    <state x="616" y="383" key="com.intellij.ide.util.TipDialog" timestamp="1601720901198">
+      <screen x="0" y="32" width="1920" height="1048" />
     </state>
     <state x="616" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601720443472" />
-    <state x="616" y="383" key="com.intellij.ide.util.TipDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1601718959516" />
+    <state x="616" y="383" key="com.intellij.ide.util.TipDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1601720901198" />
   </component>
 </project>
